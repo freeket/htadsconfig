@@ -21,3 +21,5 @@ https://raw.githubusercontent.com/czy19950220/study/master/src/assets/js/jsTwo.j
 https://github.com/freeket/htadsconfig/blob/master/config_gpads/config.json
 https://raw.githubusercontent.com/freeket/htadsconfig/blob/master/config_gpads/config.json
 
+https://github.com/freeket/htadsconfig/blob/master/config_gpads/config.json
+https://raw.githubusercontent.com/freeket/htadsconfig/blob/master/config_gpads/config.json
